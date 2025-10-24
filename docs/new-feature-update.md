@@ -7,5 +7,5 @@ This file was created in the **feature branch** to demonstrate independent featu
 - This change will later be merged into the `dev` branch using a Pull Request.
 
 ## Notes
-- Created in `feature/login-page` branch.
+- Created in `feature` branch.
 - Will be merged → `dev` → `main`.
